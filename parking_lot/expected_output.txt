@@ -1,0 +1,20 @@
+Created parking lot with 2 floors and 6 slots per floor
+Parked vehicle. Ticket ID: PR1234_1_4
+Parked vehicle. Ticket ID: PR1234_1_5
+Parked vehicle. Ticket ID: PR1234_1_6
+Parked vehicle. Ticket ID: PR1234_2_4
+Parked vehicle. Ticket ID: PR1234_2_5
+Parked vehicle. Ticket ID: PR1234_2_6
+Parking lot is full - CAR
+Unparked vehicle with Registration Number: WB-45-HO-9032 and Color: white
+Invalid Ticket
+Invalid Ticket
+Parked vehicle. Ticket ID: PR1234_1_2
+Parked vehicle. Ticket ID: PR1234_1_1
+Parked vehicle. Ticket ID: PR1234_2_1
+Parking lot is full - TRUCK
+No. of free slots for TRUCK: 0
+No. of occupied slots for TRUCK: 2
+Vehicle with registration number KL-54-DN-4582 is parked on floor 2 in slot 1
+Vehicle with registration number KA-02-CB-1334 is parked on floor 1 in slot 5
+Vehicle with registration number KL-12-HF-4542 not found
